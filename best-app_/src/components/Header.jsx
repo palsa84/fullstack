@@ -18,7 +18,7 @@ export default function Header() {
                         <Nav.Link href="#pricing">SignIn</Nav.Link>
                         <NavDropdown title="Admin" id="collapsible-nav-dropdown">
                             <NavDropdown.Item as={Link} to="/admin/users">
-                                회원관리
+                                회원asdf관리
                             </NavDropdown.Item>
                             <NavDropdown.Item>상품관리</NavDropdown.Item>
                             <NavDropdown.Item>주문관리</NavDropdown.Item>
